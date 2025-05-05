@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/ypear/currency"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "local-first",
     "offline-first",
